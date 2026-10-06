@@ -36,7 +36,7 @@ Choose your platform below to download the latest stable release of NexOLT:
 
 [![Download Windows EXE](https://github.com/reemuree/NexOLT/releases/download/version/NexOLT-Setup-1.10.8-FTTH.exe))]
 
-> ⚠️ *Note: Replace `YOUR_ANDROID_APK_LINK_HERE` and `YOUR_WINDOWS_EXE_LINK_HERE` with your actual file hosting or release links.*
+
 
 ---
 
